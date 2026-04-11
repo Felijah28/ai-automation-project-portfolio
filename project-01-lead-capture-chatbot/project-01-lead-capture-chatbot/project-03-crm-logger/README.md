@@ -67,15 +67,3 @@ Every lead that interacts with the Voiceflow chatbot
 (Project 01) gets their data cleaned (Project 02) and 
 automatically stored as a new row in Google Sheets (Project 03) 
 — entirely without human involvement.
-
-## Screenshots
-### n8n Workflow
-![n8n Workflow](screenshots/n8n-workflow.png)
-
-### Google Sheets Node Configuration
-![Node Config](screenshots/google-sheets-node-config.png)
-
-### Google Sheets CRM Result
-![Google Sheets Result](screenshots/google-sheets-result.png)
-
-## How Projects 01, 02 and 03 Connect
